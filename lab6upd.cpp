@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <mpi.h>
-// нельзя использовать vector
 
 int main(const int argc, char** argv) {
     int size = -1;
